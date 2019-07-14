@@ -2,36 +2,54 @@
 Hash: SHA512
 
 Origin: DerBunman
-Label: DerBunman Github
+Label: github.com/DerBunman/bundebs
 Suite: stable
 Codename: bionic
-Date: Sun, 14 Jul 2019 21:30:35 UTC
-Architectures: amd64
+Date: Sun, 14 Jul 2019 21:52:01 UTC
+Architectures: i386 amd64
 Components: main
 Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
 MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ c5b1aed1e8ddd2f5ea5d98df2fcca777 194 main/binary-i386/Release
  81c53254986ddc9e936bb61dc1ea7b2c 5837 main/binary-amd64/Packages
  b938b4c12ff4536b86dd60ffba70197c 1560 main/binary-amd64/Packages.gz
  d5fefdd35667a8ceecbef7d313863167 183 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 88a59ac895c2e9013f75fc28763a5e2e 196 main/source/Release
 SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 3115927e542321c326e1fbe68d5ad0ee44971e82 194 main/binary-i386/Release
  3f7e320301b4409bc663733f40f9409eb9f71d41 5837 main/binary-amd64/Packages
  ab0ca3b35f59b9bd8a63655ae42ff0daddca8412 1560 main/binary-amd64/Packages.gz
  a0c036051c442b43ff795634860c6dc145c2c4f8 183 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 93ae61b9d92e96255f5b4a78cb86dd87f0f98fb3 196 main/source/Release
 SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 3eda3cfbd1503401f4469a359b23dae365b7818d9ebc36292e0d772740eba118 194 main/binary-i386/Release
  55a79192ee36aeed8fec4cd69fca7552a08fa081af7750b82ae707a68b1a476f 5837 main/binary-amd64/Packages
  d8cef7f3a912b1ef98331fb77a716f38c3caca63a79e60df8c2be52644de509e 1560 main/binary-amd64/Packages.gz
  68b3d0238ecf5403cafe1270783f8fd8b3a1a9d1703d254dfccd8b6381d1b799 183 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ a8c7735ba4481dee7e7338710602700fbaec022cbb89ff2e5c896cc26f32ec39 196 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEYVplX763fWGjxMQ7yud4b6ER3uQFAl0rnvsACgkQyud4b6ER
-3uRGOwv7BK8prnk7KMhyRlWaXuIJuh1kUN6Mw7XPqs1OaQM1vTuTzBrDBsTcNE8n
-trqaRU4CtkfII+GGnOwdESwYS/DZnOW5nBVZFfr/DjSAGg9iPFGvMvWJ8CnoJq15
-+xoNQlRBc9bY+tqazd1hHiVR+N9RBMX+5EN7GRqB9QXtK1JMhi1XyD4f9SbtJxem
-zTiKyOa3CoZVNeOE9195Uu1Zjp1HpWMpv/Y9ZM3t4df6qeTqWtu6KB0Y6kLtjdfv
-ZwlDiVwnmaHAijpMS1f2gV3bQqfBVq2DxyMthIwcTN5FBGtzB9gYYRwoGjlkB8J9
-acYsVqx86CtG8fyTrGn7rKBKraMrD0wsIoFdbEBopTW/AF5yaGc+w5XBlRMPjUMK
-75cccC0yXJ+28nB1a6GyPxgwrK5gHK4sR3EEGdGRt9uZ06j8lXqZGCrD56nDpKIi
-b2v2Nnw6SYnhJqJcZajPZpZak2sMlsKoIxUVLwOpt6jDesVAGitV6MLDP9kpj5IX
-cQxQgwSd
-=lytQ
+iQGzBAEBCgAdFiEEYVplX763fWGjxMQ7yud4b6ER3uQFAl0rpAEACgkQyud4b6ER
+3uT5+gwAlJ6eaEuEYAIHtrz36nwpLUOrZgAIM9th+0592+tbm4i7vrEFdR6F42nK
+wzzR40ZwvZILooPMG9UVorOS/jFij2jTOq3uwF15ic/AIoWk7oCOoVURs/I9ct5Y
+XaGdNrgzBvtHgXMS3zEYAAJH6REbXpx/X7PDs6/DGuPnzkfi9QWiBFrMwbCdLL+W
+e+FgCFDlXSBU7MH33nXxUpSTOqreshi6hDvSjc/z4TTRXPguwYT9O0cvDVn54LBz
+lvzoLhxaVeGSpKNZtyUH52q+dhIiTVHonOL8BazXE8+oSOMSiL7/2Rd7xJq7XVg2
+/UtDZ3rOCI+coVGtswRCsg3rcnZggjzJfIyniHSk9UOHYvPOXI1QYblN1hIGDeDr
+INDWcOPVCGQf1/WFkoPsrP+HLR6T3e1jQ8pODqRHKr5fIBM1DHqb0XtmVBBfJIo+
+xQfckm5svjue+Ry7lIyOxVWpwV//Xkoiiaq/xXAF7m983LJXKkzQhWnzEfqskyk7
+5BGzLwYM
+=6jq5
 -----END PGP SIGNATURE-----
