@@ -1,7 +1,7 @@
-Origin: DerBunman
-Label: github.com/DerBunman/bundebs
-Suite: stable
+Origin: bundebs bionic
+Label: bundebs/bionic
 Codename: bionic
+Suite: stable
 Architectures: i386 amd64 source
 Components: main
 Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
