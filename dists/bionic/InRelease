@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: DerBunman
 Label: DerBunman Github
 Suite: stable
@@ -18,3 +21,17 @@ SHA256:
  55a79192ee36aeed8fec4cd69fca7552a08fa081af7750b82ae707a68b1a476f 5837 main/binary-amd64/Packages
  d8cef7f3a912b1ef98331fb77a716f38c3caca63a79e60df8c2be52644de509e 1560 main/binary-amd64/Packages.gz
  68b3d0238ecf5403cafe1270783f8fd8b3a1a9d1703d254dfccd8b6381d1b799 183 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEYVplX763fWGjxMQ7yud4b6ER3uQFAl0rnvsACgkQyud4b6ER
+3uRGOwv7BK8prnk7KMhyRlWaXuIJuh1kUN6Mw7XPqs1OaQM1vTuTzBrDBsTcNE8n
+trqaRU4CtkfII+GGnOwdESwYS/DZnOW5nBVZFfr/DjSAGg9iPFGvMvWJ8CnoJq15
++xoNQlRBc9bY+tqazd1hHiVR+N9RBMX+5EN7GRqB9QXtK1JMhi1XyD4f9SbtJxem
+zTiKyOa3CoZVNeOE9195Uu1Zjp1HpWMpv/Y9ZM3t4df6qeTqWtu6KB0Y6kLtjdfv
+ZwlDiVwnmaHAijpMS1f2gV3bQqfBVq2DxyMthIwcTN5FBGtzB9gYYRwoGjlkB8J9
+acYsVqx86CtG8fyTrGn7rKBKraMrD0wsIoFdbEBopTW/AF5yaGc+w5XBlRMPjUMK
+75cccC0yXJ+28nB1a6GyPxgwrK5gHK4sR3EEGdGRt9uZ06j8lXqZGCrD56nDpKIi
+b2v2Nnw6SYnhJqJcZajPZpZak2sMlsKoIxUVLwOpt6jDesVAGitV6MLDP9kpj5IX
+cQxQgwSd
+=lytQ
+-----END PGP SIGNATURE-----

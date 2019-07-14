@@ -5,3 +5,4 @@ Codename: bionic
 Architectures: amd64
 Components: main
 Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
+SignWith: 615A655FBEB77D61A3C4C43BCAE7786FA111DEE4
