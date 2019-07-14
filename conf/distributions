@@ -1,8 +1,18 @@
-Origin: bundebs bionic
-Label: bundebs/bionic
+Origin: BunDebs bionic stable
+Label: bundebs/bionic/stable
 Codename: bionic
 Suite: stable
 Architectures: i386 amd64 source
 Components: main
 Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
 SignWith: 615A655FBEB77D61A3C4C43BCAE7786FA111DEE4
+
+Origin: BunDebs debian testing stable
+Label: bundebs/testing/stable
+Codename: testing
+Suite: stable
+Architectures: i386 amd64 source
+Components: main
+Description: Debian testing packages hosted on DerBuman/bundebs github repository
+SignWith: 615A655FBEB77D61A3C4C43BCAE7786FA111DEE4
+
