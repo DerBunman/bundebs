@@ -2,7 +2,7 @@ Origin: DerBunman
 Label: github.com/DerBunman/bundebs
 Suite: stable
 Codename: bionic
-Date: Sun, 14 Jul 2019 21:52:01 UTC
+Date: Sun, 14 Jul 2019 22:09:21 UTC
 Architectures: i386 amd64
 Components: main
 Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
@@ -13,8 +13,8 @@ MD5Sum:
  81c53254986ddc9e936bb61dc1ea7b2c 5837 main/binary-amd64/Packages
  b938b4c12ff4536b86dd60ffba70197c 1560 main/binary-amd64/Packages.gz
  d5fefdd35667a8ceecbef7d313863167 183 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
- 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 0e8303a190fdc329e8e932c0283c8a02 2067 main/source/Sources
+ 04d8a5c25014c8945b4937183244968b 1050 main/source/Sources.gz
  88a59ac895c2e9013f75fc28763a5e2e 196 main/source/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
@@ -23,8 +23,8 @@ SHA1:
  3f7e320301b4409bc663733f40f9409eb9f71d41 5837 main/binary-amd64/Packages
  ab0ca3b35f59b9bd8a63655ae42ff0daddca8412 1560 main/binary-amd64/Packages.gz
  a0c036051c442b43ff795634860c6dc145c2c4f8 183 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 9689ad4a193eaeffbb79ee22e1af02e6e306413e 2067 main/source/Sources
+ 97573ef4a7773593cfc9404b9660fbd3af2a5aa7 1050 main/source/Sources.gz
  93ae61b9d92e96255f5b4a78cb86dd87f0f98fb3 196 main/source/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
@@ -33,6 +33,6 @@ SHA256:
  55a79192ee36aeed8fec4cd69fca7552a08fa081af7750b82ae707a68b1a476f 5837 main/binary-amd64/Packages
  d8cef7f3a912b1ef98331fb77a716f38c3caca63a79e60df8c2be52644de509e 1560 main/binary-amd64/Packages.gz
  68b3d0238ecf5403cafe1270783f8fd8b3a1a9d1703d254dfccd8b6381d1b799 183 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 3b783312f47582638f5dd2c2d57218b7b7347468d50cacfd3151c5fae12b0b18 2067 main/source/Sources
+ 7f19cf2707c8192a70faf893e53d58f33d87adb394c0956f42a20e9fbfcec3f5 1050 main/source/Sources.gz
  a8c7735ba4481dee7e7338710602700fbaec022cbb89ff2e5c896cc26f32ec39 196 main/source/Release
