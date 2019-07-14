@@ -1,0 +1,141 @@
+Package: zsh
+Version: 5.5.1-1ubuntu3~bundebs1
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 2078
+Depends: zsh-common (= 5.5.1-1ubuntu3~bundebs1), libc6 (>= 2.15), libcap2 (>= 1:2.10), libtinfo5 (>= 6)
+Recommends: libc6 (>= 2.23), libncursesw5 (>= 6), libpcre3
+Suggests: zsh-doc
+Homepage: https://www.zsh.org/
+Priority: optional
+Section: shells
+Filename: pool/main/z/zsh/zsh_5.5.1-1ubuntu3~bundebs1_amd64.deb
+Size: 739044
+SHA256: a7bac1c826bdbdaf2a6d2fe2891ba9e8619f8aeac5a90ed092b6a041c4024a1f
+SHA1: ed9a1b49634b175cb4c886bea372e4e5278456c5
+MD5sum: 148ac5c02f84fe52b565c39b00169c3b
+Description: shell with lots of features
+ Zsh is a UNIX command interpreter (shell) usable as an
+ interactive login shell and as a shell script command
+ processor. Of the standard shells, zsh most closely resembles
+ ksh but includes many enhancements. Zsh has command-line editing,
+ built-in spelling correction, programmable command completion,
+ shell functions (with autoloading), a history mechanism, and a
+ host of other features.
+Original-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
+
+Package: zsh-common
+Source: zsh
+Version: 5.5.1-1ubuntu3~bundebs1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 13429
+Recommends: zsh
+Suggests: zsh-doc
+Replaces: zsh (<= 5.0.2-1)
+Multi-Arch: foreign
+Homepage: https://www.zsh.org/
+Priority: optional
+Section: shells
+Filename: pool/main/z/zsh/zsh-common_5.5.1-1ubuntu3~bundebs1_all.deb
+Size: 3530484
+SHA256: 34e4bfd47d2dce2806d01bf77571c2e073baa79a9aa3bfb65f3a63f8ab70a0af
+SHA1: 71f09e8fcf79929521d7e4247709c88f571631f0
+MD5sum: b99ff47dac1e8b195452853ac294e4dd
+Description: architecture independent files for Zsh
+ Zsh is a UNIX command interpreter (shell) usable as an
+ interactive login shell and as a shell script command
+ processor. Of the standard shells, zsh most closely resembles
+ ksh but includes many enhancements. Zsh has command-line editing,
+ built-in spelling correction, programmable command completion,
+ shell functions (with autoloading), a history mechanism, and a
+ host of other features.
+ .
+ This package contains the common zsh files shared by all
+ architectures.
+Original-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
+
+Package: zsh-dev
+Source: zsh
+Version: 5.5.1-1ubuntu3~bundebs1
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 533
+Depends: zsh-common (= 5.5.1-1ubuntu3~bundebs1)
+Homepage: https://www.zsh.org/
+Priority: optional
+Section: libdevel
+Filename: pool/main/z/zsh/zsh-dev_5.5.1-1ubuntu3~bundebs1_amd64.deb
+Size: 135304
+SHA256: 15616f323559b6ca321bc2944624b9b031efb2eafc4594fd61208e96298e1983
+SHA1: a518f02c96af997d34d35f3ea2c4ed509f27bceb
+MD5sum: a110d17196867d880a39fe68c57e1a0b
+Description: shell with lots of features (development files)
+ Zsh is a UNIX command interpreter (shell) usable as an
+ interactive login shell and as a shell script command
+ processor. Of the standard shells, zsh most closely resembles
+ ksh but includes many enhancements. Zsh has command-line editing,
+ built-in spelling correction, programmable command completion,
+ shell functions (with autoloading), a history mechanism, and a
+ host of other features.
+ .
+ This package contains headers and scripts necessary to compile
+ third-party modules.
+Original-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
+
+Package: zsh-doc
+Source: zsh
+Version: 5.5.1-1ubuntu3~bundebs1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 5548
+Depends: zsh-common (= 5.5.1-1ubuntu3~bundebs1)
+Homepage: https://www.zsh.org/
+Priority: optional
+Section: doc
+Filename: pool/main/z/zsh/zsh-doc_5.5.1-1ubuntu3~bundebs1_all.deb
+Size: 2675220
+SHA256: 6c4a439824d3ef0e28ff79fd947a631a525e9e6dd30bf71d902a9a92f335a928
+SHA1: 0612ec8ff515a74f022296fd56e9d390398e3acc
+MD5sum: 9384da9d2d5e8f1a994912d352680254
+Description: zsh documentation - info/HTML format
+ Zsh is a UNIX command interpreter (shell) usable as an
+ interactive login shell and as a shell script command
+ processor. Of the standard shells, zsh most closely resembles
+ ksh but includes many enhancements. Zsh has command-line editing,
+ built-in spelling correction, programmable command completion,
+ shell functions (with autoloading), a history mechanism, and a
+ host of other features.
+ .
+ This contains the documentation in GNU info and HTML formats.
+Original-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
+
+Package: zsh-static
+Source: zsh
+Version: 5.5.1-1ubuntu3~bundebs1
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 2696
+Depends: zsh
+Suggests: zsh-doc
+Built-Using: glibc (= 2.27-3ubuntu1), libcap2 (= 1:2.25-1.2), ncurses (= 6.1-1ubuntu1.18.04), pcre3 (= 2:8.39-9)
+Homepage: https://www.zsh.org/
+Priority: optional
+Section: shells
+Filename: pool/main/z/zsh/zsh-static_5.5.1-1ubuntu3~bundebs1_amd64.deb
+Size: 1031116
+SHA256: 317e83ad1604cee33d443376f62cc0fe29b5c8444ac62ece6d69f6b9bc9cf155
+SHA1: 3b17095f9d5dba57dd799ade799f5cfb44347262
+MD5sum: 8054a7140e4640d00017e4a0e6213714
+Description: shell with lots of features (static link)
+ Zsh is a UNIX command interpreter (shell) usable as an
+ interactive login shell and as a shell script command
+ processor. Of the standard shells, zsh most closely resembles
+ ksh but includes many enhancements. Zsh has command-line editing,
+ built-in spelling correction, programmable command completion,
+ shell functions (with autoloading), a history mechanism, and a
+ host of other features.
+ .
+ This is the statically-compiled version of the shell.
+Original-Maintainer: Debian Zsh Maintainers <pkg-zsh-devel@lists.alioth.debian.org>
+

@@ -1,0 +1,20 @@
+Origin: DerBunman
+Label: DerBunman Github
+Suite: stable
+Codename: bionic
+Date: Sun, 14 Jul 2019 21:07:31 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu 18.04 (bionic) packages hosted on DerBuman/bundebs github repository
+MD5Sum:
+ 81c53254986ddc9e936bb61dc1ea7b2c 5837 main/binary-amd64/Packages
+ b938b4c12ff4536b86dd60ffba70197c 1560 main/binary-amd64/Packages.gz
+ d5fefdd35667a8ceecbef7d313863167 183 main/binary-amd64/Release
+SHA1:
+ 3f7e320301b4409bc663733f40f9409eb9f71d41 5837 main/binary-amd64/Packages
+ ab0ca3b35f59b9bd8a63655ae42ff0daddca8412 1560 main/binary-amd64/Packages.gz
+ a0c036051c442b43ff795634860c6dc145c2c4f8 183 main/binary-amd64/Release
+SHA256:
+ 55a79192ee36aeed8fec4cd69fca7552a08fa081af7750b82ae707a68b1a476f 5837 main/binary-amd64/Packages
+ d8cef7f3a912b1ef98331fb77a716f38c3caca63a79e60df8c2be52644de509e 1560 main/binary-amd64/Packages.gz
+ 68b3d0238ecf5403cafe1270783f8fd8b3a1a9d1703d254dfccd8b6381d1b799 183 main/binary-amd64/Release
